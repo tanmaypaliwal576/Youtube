@@ -1,3 +1,81 @@
-This project is a high-fidelity, responsive front-end clone of the YouTube homepage, built from scratch with HTML, CSS, and vanilla JavaScript. It focuses on accurately recreating the modern dark-theme UI, including the collapsible navigation sidebar, dynamic video grid, and interactive profile dropdown. While it is a front-end-only project, all navigation links are functional, making it a fully interactive UI demonstration.
+<h1 align="center">📺 YouTube Homepage UI Clone</h1>
 
-Live Link : https://youtube-nine-woad.vercel.app/
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Frontend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-HTML%20CSS%20JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Live Demo  
+https://youtube-nine-woad.vercel.app/  
+
+---
+
+## 🎬 About the Project
+
+This project is a **high-fidelity clone of the YouTube homepage**, recreated using **HTML, CSS, and vanilla JavaScript**.
+
+It replicates the modern dark-theme YouTube UI with:
+- Navigation sidebar  
+- Top header  
+- Search bar  
+- Video grid layout  
+- Profile dropdown  
+- Hover effects & animations  
+
+Although this is a **front-end-only clone**, all UI elements behave interactively, delivering a realistic YouTube-like browsing experience.
+
+---
+
+## ⭐ Features
+
+- Fully responsive layout (desktop + mobile)  
+- Modern dark-theme UI  
+- Dynamic video grid layout  
+- Collapsible left sidebar  
+- Interactive top navigation  
+- Profile dropdown  
+- Hover animations & smooth transitions  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📂 Project Structure
+
+```
+├── index.html        # Main layout structure
+├── style.css         # Styling & responsive behavior
+├── script.js         # Sidebar, dropdown, and UI interactions
+└── assets/           # Thumbnails, icons, images
+```
+
+---
+
+## 🔮 Future Enhancements
+
+- Video player page  
+- Real API integration (YouTube Data API)  
+- Search functionality  
+- Channel page mockup  
+- Light theme + dark theme  
+
+---
+
+## 🤝 Contributing  
+Suggestions and pull requests are welcome.
+
+---
+
+## 📚 License  
+Open-source under MIT License.
