@@ -1,4 +1,4 @@
-<h1 align="center">📺 YouTube Homepage UI Clone</h1>
+<h1 align="center">📺 YouTube Clone</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Frontend-blue?style=for-the-badge" />
@@ -56,7 +56,7 @@ Although this is a **front-end-only clone**, all UI elements behave interactivel
 ```
 ├── index.html        # Main layout structure
 ├── style.css         # Styling & responsive behavior
-├── script.js         # Sidebar, dropdown, and UI interactions
+├── main.js         # Sidebar, dropdown, and UI interactions
 └── assets/           # Thumbnails, icons, images
 ```
 
